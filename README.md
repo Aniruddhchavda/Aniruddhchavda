@@ -4,7 +4,7 @@
   </head>
 
   <body>
-- 👋 Hi, I’m @Aniruddhchavda<br>
+- 👋 Hi, I’m @Aniruddhchavda !<br>
 - 👀 I’m interested in software engineering.<br>
 - 🌱 I’m currently learning MEAN stack.<br>
 - 📫 reach me : anichavda98@gmail.com.<br>
